@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titulo": "Interestelar",
+        "genero": "Ficção Científica"
+    },
+    {
+        "id": 2,
+        "titulo": "O Poderoso Chefão",
+        "genero": "Crime"
+    },
+    {
+        "id": 3,
+        "titulo": "Matrix",
+        "genero": "Ação"
+    },
+    {
+        "id": 4,
+        "titulo": "Parasita",
+        "genero": "Drama"
+    },
+    {
+        "id": 5,
+        "titulo": "O Rei Leão",
+        "genero": "Animação"
+    }
+]
