@@ -11,8 +11,8 @@
     },
     {
         "id": 3,
-        "titulo": "Matrix",
-        "genero": "Ação"
+        "titulo": "Matrix Reloaded",
+        "genero": "Ação/Ficção Científica"
     },
     {
         "id": 4,
@@ -23,5 +23,10 @@
         "id": 5,
         "titulo": "O Rei Leão",
         "genero": "Animação"
+    },
+    {
+        "id": 6,
+        "titulo": "A Origem",
+        "genero": "Ficção Científica"
     }
 ]
