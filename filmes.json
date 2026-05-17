@@ -3,7 +3,7 @@
         "id": 1,
         "titulo": "Carros",
         "genero": "Animação"
-    }.
+    },
     {
         "id": 2,
         "titulo": "Avatar",
@@ -16,25 +16,34 @@
     },
     {
         "id": 4,
+        "titulo": "Matrix Reloaded",
+        "genero": "Ação/Ficção Científica"
+    },
+        "id": 5,
         "titulo": "Matrix",
         "genero": "Ação"
     },
     {
-        "id": 5,
+        "id": 6,
         "titulo": "Parasita",
         "genero": "Drama"
     },
     {
-        "id": 6,
+        "id": 7,
         "titulo": "O Rei Leão",
         "genero": "Animação"
     },
     {
-        "id": 7,
+        "id": 8,
+        "titulo": "A Origem",
+        "genero": "Ficção Científica"
+    },
+        "id": 9,
         "titulo": "Toy Story",
+        "genero": "Animação"
     },
     {
-        "id":8
+        "id":10,
         "titulo": "Dumbo",
         "genero": "Animação"
     }
