@@ -3,30 +3,39 @@
         "id": 1,
         "titulo": "Carros",
         "genero": "Animação"
-    },
+    }.
     {
         "id": 2,
+        "titulo": "Avatar",
+        "genero": "Ficção Científica"
+    },
+    {
+        "id": 3,
         "titulo": "O Poderoso Chefão",
         "genero": "Crime"
     },
     {
-        "id": 3,
+        "id": 4,
         "titulo": "Matrix",
         "genero": "Ação"
     },
     {
-        "id": 4,
+        "id": 5,
         "titulo": "Parasita",
         "genero": "Drama"
     },
     {
-        "id": 5,
+        "id": 6,
         "titulo": "O Rei Leão",
         "genero": "Animação"
     },
     {
-        "id": 6,
+        "id": 7,
         "titulo": "Toy Story",
+    },
+    {
+        "id":8
+        "titulo": "Dumbo",
         "genero": "Animação"
     }
 ]
